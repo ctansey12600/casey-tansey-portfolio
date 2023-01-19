@@ -1,4 +1,5 @@
 import GlobalStyle from "./GlobalStyle";
 import Container from "./Container";
+import Button from "./Button";
 
-export default { GlobalStyle, Container };
+export { GlobalStyle, Container, Button };
